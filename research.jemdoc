@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Research
+
+== Students
+I'm glad and lucky to advise and collaborate with:
+
+Mr. Shangyu Wu
+
+Ms. Yu Mao
+
+== Publications
+
+
+[https://arxiv.org/pdf/2203.16114.pdf, TRACE: A Fast Transformer-based General-Purpose Lossless Compressor]\n Yu Mao, *Yufei Cui (Corresponding author)*, Tei-Wei Kuo and Chun Jason Xue\nThe Web Conference, *WWW 2022*, to appear
+
+[https://www.usenix.org/conference/fast22/presentation/liang, CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime]\nYu Liang, Riwei Pan, Tianyu Ren, *Yufei Cui*, Rachata Ausavarungnirun, Xianzhang Chen, Changlong Li, Tei-Wei Kuo, Chun Jason Xue\nThe 20th USENIX Conference on File and Storage Technologies, *FAST 2022*.
+
+[https://arxiv.org/pdf/2008.02965.pdf, Improve Generalization and Robustness of Neural Networks via Weight Scale Shifting Invariant Regularizations]\nZiquan Liu, *Yufei Cui*, Antoni B. Chan.\nICML Workshop on Adversarial Machine Learning, *ICMLW 2021*.
+
+[https://www.cs.cityu.edu.hk/~huwan2/files/apsys21_wan.pdf, FlashEmbedding: Storing Embedding Tables in SSD for Large-Scale Recommender Systems]\nHu Wan, Xuan Sun, *Yufei Cui*, Chia-Lin Yang, Tei-Wei Kuo, Chun Jason Xue.\nThe ACM Asia-Pacific Workshop on Systems, *ApSys2 2021*, to appear.
+
+[https://ieeexplore.ieee.org/document/9440539 Online Rare Category Identification and Data Diversification for Edge Computing]\n*Yufei Cui*, Qiao Li, Chun Jason Xue, Tei-Wei Kuo.\nIEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
+[https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Bayesian_Nested_Neural_Networks_for_Uncertainty_Calibration_and_Adaptive_Compression_CVPR_2021_paper.pdf Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression]\n*Yufei Cui*, Ziquan Liu, Qiao Li, Antoni B. Chan, Chun Jason Xue.\nIEEE/CVF Conference on Computer Vision and Pattern Recognition, *CVPR 2021*.
+
+[https://www.ijcai.org/proceedings/2020/0288.pdf, Fully Nested Neural Network for Adaptive Compression and Quantization]\n*Yufei Cui*, Ziquan Liu, Wuguannan Yao, Qiao Li, Antoni B. Chan, Tei-Wei Kuo, Chun Jason Xue.\nInternational Joint Conference on Artificial Intelligence, *IJCAI 2020*.
+
+[http://visal.cs.cityu.edu.hk/static/pubs/journal/tnnls20-opu.pdf, Accelerating Monte Carlo Bayesian Prediction via Approximating Predictive Uncertainty Over the Simplex]\n*Yufei Cui*, Wuguannan Yao, Qiao Li, Antoni B. Chan, Chun Jason Xue.\nIEEE Transactions on Neural Networks and Learning Systems, *TNNLS*.
+
+[https://ieeexplore.ieee.org/abstract/document/9211447 Pruning Deep Reinforcement Learning for Dual User Experience and Storage Lifetime Improvement on Mobile Devices]\nChao Wu, *Yufei Cui (Co-first author)*, Cheng Ji, Tei-Wei Kuo, Chun Jason Xue.\nIEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).\nInternational Conference on Embedded Software, *EMSOFT 2020*.
+
+[https://ieeexplore.ieee.org/abstract/document/8936476 Exploiting Asymmetric Errors for LDPC Decoding Optimization on 3D NAND Flash Memory]\nQiao Li, Liang Shi, *Yufei Cui*, Chun Jason Xue.\nTransaction on Computers (*TC*).
+
+[https://ieeexplore.ieee.org/abstract/document/9251942 Shaving Retries with Sentinels for Fast Read over High-Density 3D Flash]\nQiao Li, Min Ye, *Yufei Cui*, Liang Shi, Xiaoqiang Li, Tei-Wei Kuo, Chun Jason Xue.\nIEEE/ACM International Symposium on Microarchitecture, *MICRO 2020*.
+
+[https://ieeexplore.ieee.org/document/8715002 Online Rare Category Detection for Edge Computing]\n
+*Yufei Cui*, Qiao Li, Sarana Nutanong, Chun Jason Xue.\nDesign, Automation & Test in Europe Conference & Exhibition, *DATE 2019*.
+
+[https://ieeexplore.ieee.org/document/8731391 A Hardware-Accelerated Solution for Hierarchical Index-Based Merge-Join]\nZimeng Zhou, Chenyun Yu, Sarana Nutanong, *Yufei Cui*, Chenchen Fu, Chun Jason Xue.\nIEEE Transactions on Knowledge and Data Engineering (*TKDE*).\nInternational Conference on Data Engineering, *ICDE 2019*.
+
+[https://www.usenix.org/conference/hotstorage19/presentation/li Sentinel Cells Enabled Fast Read for NAND Flash]\nQiao Li, Min Ye, *Yufei Cui*, Liang Shi, Xiaoqiang Li, Chun Jason Xue.\nUSENIX Workshop on Hot Topics in Storage and File Systems, *HotStorage 2019*.

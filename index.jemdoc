@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Yufei Cui
+
+~~~
+{}{img_left}{IMG_2900.jpg}{alt text}{203}{278}
+Yufei Cui, Postdoc,\n [https://www.cs.cityu.edu.hk Department of Computer Science], \nCity University of Hong Kong (CityU, HK)\n
+\n
+E-mail: /yufeicui3-c/ \[@\] my \[DOT\] city \[DOT\] edu \[DOT\] hk
+~~~
+
+== About
+I'm working as a postdoc researcher in [https://mlab.hk MLab] directed by Prof. Ted-Wei Kuo, Prof. Chun Jason Xue and Dr. Nan Guan, CityU HK. I also work closely with [http://visal.cs.cityu.edu.hk VISAL] directed by Prof. Antoni B. Chan. Prior to that, I obtained my PhD in computer science in CityU HK, MS in Telecommunications in HKUST and BE in Shandong University.
+
+I also lead the AI research lab in [https://www.ibingli.cn/ Bingli Tech], Guangzhou.
+
+My research interests include 
+. Bayesian deep learning with applications in medical images and Histopathology.
+. Light-weight network and Embedded AI.
+. Data engineering - data compression and learned index.
+. Storage.
+
+
+== News
+
+Our paper "A Fast Transformer-based General-Purpose Lossless Compressor" was accepted in TheWebConf 2022. ([https://arxiv.org/pdf/2203.16114.pdf Preprint],[https://github.com/mynotwo/A-Fast-Transformer-based-General-Purpose-LosslessCompressor Code]).
+
+Our paper "CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime" was accepted in FAST 2022. ([https://www.usenix.org/conference/fast22/presentation/liang Paper])
+
+Serving as reviewer for CVPR-22, NeurIPS-22, ICML-22.
+
+Our paper "Online Rare Category Identification and Data Diversification for Edge Computing" was accepted in TCAD. ([https://ieeexplore.ieee.org/document/9440539 Paper])
+
+Code for "Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression" using proposed variational nested dropout are released. ([https://github.com/ralphc1212/variational_nested_dropout, Code])
+
+Our paper "FlashEmbedding: Storing embedding tables in SSD for large-scale recommender systems" was accepted in APSys 2021. ([https://www.cs.cityu.edu.hk/~huwan2/files/apsys21_wan.pdf Paper])
+
+Our paper "Improve Generalization and Robustness of Neural Networks via Weight Scale Shifting Invariant Regularizations" was accepted in ICML Workshop on Adversarial Machine Learning 2021. ([https://arxiv.org/pdf/2008.02965.pdf Paper])
+
+Our paper "Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression" was accepted in CVPR 2021. ([https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Bayesian_Nested_Neural_Networks_for_Uncertainty_Calibration_and_Adaptive_Compression_CVPR_2021_paper.pdf Paper])
