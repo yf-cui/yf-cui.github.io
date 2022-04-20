@@ -8,6 +8,10 @@ Mr. Shangyu Wu
 
 Miss Yu Mao
 
+== Patents
+
+[https://patents.google.com/patent/US20220058478A1/en Artificial neural network configuration and deployment]\n On the /Ordered Dropout/ and /Fully Nested Neural Network/ in "Fully Nested Neural Network for Adaptive Compression and Quantization" \nTei-Wei Kuo, Antoni Bert Chan, Chun Xue, Yufei Cui, Ziquan Liu, Wuguannan Yao, Qiao Li \nU.S. Patent Application No. 17/000,612.
+
 == Publications
 
 
@@ -17,7 +21,7 @@ Miss Yu Mao
 
 [https://arxiv.org/pdf/2008.02965.pdf, Improve Generalization and Robustness of Neural Networks via Weight Scale Shifting Invariant Regularizations]\nZiquan Liu, *Yufei Cui*, Antoni B. Chan.\nICML Workshop on Adversarial Machine Learning, *ICMLW 2021*.
 
-[https://www.cs.cityu.edu.hk/~huwan2/files/apsys21_wan.pdf, FlashEmbedding: Storing Embedding Tables in SSD for Large-Scale Recommender Systems]\nHu Wan, Xuan Sun, *Yufei Cui*, Chia-Lin Yang, Tei-Wei Kuo, Chun Jason Xue.\nThe ACM Asia-Pacific Workshop on Systems, *ApSys2 2021*, to appear.
+[https://www.cs.cityu.edu.hk/~huwan2/files/apsys21_wan.pdf, FlashEmbedding: Storing Embedding Tables in SSD for Large-Scale Recommender Systems]\nHu Wan, Xuan Sun, *Yufei Cui*, Chia-Lin Yang, Tei-Wei Kuo, Chun Jason Xue.\nThe ACM Asia-Pacific Workshop on Systems, *ApSys 2021*, to appear.
 
 [https://ieeexplore.ieee.org/document/9440539 Online Rare Category Identification and Data Diversification for Edge Computing]\n*Yufei Cui*, Qiao Li, Chun Jason Xue, Tei-Wei Kuo.\nIEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
