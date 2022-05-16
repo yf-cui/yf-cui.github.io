@@ -24,7 +24,7 @@ My research interests include
 
 == News
 
-Our paper "NFL: Robust Learned Index via Distribution Transformation" was accepted in VLDB 2022.
+Our paper "NFL: Robust Learned Index via Distribution Transformation" was accepted in VLDB 2022. ([https://github.com/luffy06/NFL, code])
 
 Our paper "A Fast Transformer-based General-Purpose Lossless Compressor" was accepted in TheWebConf 2022. ([https://arxiv.org/pdf/2203.16114.pdf Preprint],[https://github.com/mynotwo/A-Fast-Transformer-based-General-Purpose-LosslessCompressor Code]).
 
@@ -40,4 +40,4 @@ Our paper "FlashEmbedding: Storing embedding tables in SSD for large-scale recom
 
 Our paper "Improve Generalization and Robustness of Neural Networks via Weight Scale Shifting Invariant Regularizations" was accepted in ICML Workshop on Adversarial Machine Learning 2021. ([https://arxiv.org/pdf/2008.02965.pdf Paper])
 
-Our paper "Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression" was accepted in CVPR 2021. ([https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Bayesian_Nested_Neural_Networks_for_Uncertainty_Calibration_and_Adaptive_Compression_CVPR_2021_paper.pdf Paper])
+Our paper "Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression" was accepted in CVPR 2021. ([https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Bayesian_Nested_Neural_Networks_for_Uncertainty_Calibration_and_Adaptive_Compression_CVPR_2021_paper.pdf Paper], [https://github.com/ralphc1212/variational_nested_dropout code])
