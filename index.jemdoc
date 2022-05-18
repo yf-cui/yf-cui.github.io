@@ -16,9 +16,10 @@ I'm working as a postdoc researcher in [https://mlab.hk MLab] directed by Prof. 
 I also lead the AI research lab in [https://www.ibingli.cn/ Bingli Tech], Guangzhou.
 
 My research interests include 
-. Bayesian deep learning with applications in medical images and Histopathology.
-. Light-weight neural network and Embedded AI.
-. Data engineering - data compression and learned index.
+. Probabilistic deep learning with applications in:
+.. Medical images and Histopathology.
+.. Light-weight neural network and Embedded AI.
+.. Data engineering - data compression and learned index.
 . Storage - optimization for flash reliability.
 
 
