@@ -12,6 +12,10 @@ Miss Yu Mao
 
 [https://patents.google.com/patent/US20220058478A1/en Artificial neural network configuration and deployment]\n On the /Ordered Dropout/ and /Fully Nested Neural Network/ in "Fully Nested Neural Network for Adaptive Compression and Quantization" \nTei-Wei Kuo, Antoni Bert Chan, Chun Xue, Yufei Cui, Ziquan Liu, Wuguannan Yao, Qiao Li \nU.S. Patent Application No. 17/000,612.
 
+== Pre-prints
+[https://arxiv.org/abs/2101.11353 Variational Nested Dropout]\n
+*Yufei Cui*, Yu Mao, Ziquan Liu, Qiao Li, Antoni B. Chan, Xue Liu, Tei-Wei Kuo, Chun Jason Xue.
+
 == Publications
 
 [https://arxiv.org/abs/2205.11807 NFL: Robust Learned Index via Distribution Transformation]\n Shangyu Wu, *Yufei Cui* (Corresponding), Jinghuan Yu, Xuan Sun, Tei-Wei Kuo and Chun Jason Xue\nThe 48th International Conference on Very Large Databases, *VLDB 2022*, to appear
