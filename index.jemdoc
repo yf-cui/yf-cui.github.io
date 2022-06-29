@@ -24,7 +24,7 @@ My research interests include
 
 Our paper "Accelerating General-purpose Lossless Compression via Simple and Scalable Parameterization" was accepted in ACM MM 2022.\n/Explicitly modeling local dependency of symbols using variants of [https://arxiv.org/pdf/2101.11353.pdf Variational Nested Dropout] helps build an efficient data compressor./
 
-Our preprint "Variational Nested Dropout" is available on arXiv and is under review as a journal paper. ([https://arxiv.org/pdf/2101.11353.pdf Preprint], [https://github.com/ralphc1212/PyTorch-VAE/tree/vnd_vae Code])\n/A new formulation of variational autoencoder with the ordered latent space is provided./
+Our preprint "Variational Nested Dropout" is available on arXiv and is under review as a journal paper. ([https://arxiv.org/pdf/2101.11353.pdf Preprint], [https://github.com/ralphc1212/PyTorch-VAE/tree/vnd_vae Code])\n/A new formulation of variational autoencoder with the ordered latent space is proposed./
 
 Our paper "NFL: Robust Learned Index via Distribution Transformation" was accepted in VLDB 2022. ([https://arxiv.org/abs/2205.11807 Preprint], [https://github.com/luffy06/NFL Code])\n/Transforming the distribution of keys with normalizing flow helps build an efficient learned index./
 
