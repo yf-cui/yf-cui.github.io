@@ -22,7 +22,7 @@ My research interests include
 
 == News
 
-Our paper "Bits-Ensemble: Towards Light-Weight Robust Deep Ensemble by Bits-Sharing" was accepted in CASES 2022 and TCAD.\n/Sharing less significant quantization bits across an ensemble saves the storage without losing accuracy./
+Our paper "Bits-Ensemble: Towards Light-Weight Robust Deep Ensemble by Bits-Sharing" was accepted in CASES 2022 and TCAD.\n/Sharing less significant quantization bits across an ensemble significantly reduces the ensemble size without loss of performance./
 
 Our paper "Accelerating General-purpose Lossless Compression via Simple and Scalable Parameterization" was accepted in ACM MM 2022.\n/Explicitly modeling local dependency of symbols using variants of [https://arxiv.org/pdf/2101.11353.pdf Variational Nested Dropout] helps build an efficient data compressor./
 
