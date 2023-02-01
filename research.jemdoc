@@ -12,11 +12,11 @@ Miss Yu Mao
 
 [https://patents.google.com/patent/US20220058478A1/en Artificial neural network configuration and deployment]\n On the /Ordered Dropout/ and /Fully Nested Neural Network/ in "Fully Nested Neural Network for Adaptive Compression and Quantization" \nTei-Wei Kuo, Antoni Bert Chan, Chun Xue, Yufei Cui, Ziquan Liu, Wuguannan Yao, Qiao Li \nU.S. Patent Application No. 17/000,612.
 
-== Pre-prints
-[https://arxiv.org/abs/2101.11353 Variational Nested Dropout]\n
-*Yufei Cui*, Yu Mao, Ziquan Liu, Qiao Li, Antoni B. Chan, Xue Liu, Tei-Wei Kuo, Chun Jason Xue.
-
 == Publications
+
+Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images\n*Yufei CUI*, Ziquan Liu, Xiangyu Liu, Xue Liu, Cong Wang, Tei-Wei Kuo, Chun Jason Xue, Antoni B. Chan, *ICLR 2023*, to appear
+
+Variational Nested Dropout\n *Yufei Cui*, Yu Mao, Ziquan Liu, Qiao Li, Antoni B. Chan, Xue Liu, Tei-Wei Kuo, Chun Jason Xue\nIEEE Transactions on Pattern Analysis and Machine Intelligence, *TPAMI*, to appear
 
 [https://ieeexplore.ieee.org/document/9854091 Bits-Ensemble: Towards Light-Weight Robust Deep Ensemble by Bits-Sharing]\n *Yufei Cui*, Shangyu Wu, Qiao Li, Antoni B. Chan, Wei-Wei Kuo and Chun Jason Xue\nProceedings of the 2022 International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, *CASES 2022*, to appear\nIEEE Transactions on Computer Aided Design of Integrated Circuits & Systems, *TCAD*, to appear
 

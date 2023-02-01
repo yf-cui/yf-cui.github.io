@@ -15,7 +15,7 @@ I'm working as a postdoc in McGill University, advised by [https://www.cs.mcgill
 
 I am an advisor of the medical AI research lab in [https://www.ibingli.cn/ Bingli Tech], Guangzhou.
 
-I worked as a postdoc from July, 2021 to June 2022, in [https://mlab.hk MLab], CityU HK. Prior to that, I obtained my PhD degree in CityU HK, advised by [https://www.cs.cityu.edu.hk/~jasonxue/ Prof. Chun Jason Xue], [https://www.cs.cityu.edu.hk/~abchan/ Prof. Antoni B. Chan] and [https://www.csie.ntu.edu.tw/~ktw/ Prof. Ted-Wei Kuo]. I obtained MS degree in Telecommunications in HKUST and BE in Communication Engineering in Shandong University.
+I worked as a postdoc from July, 2021 to June 2022, in [https://mlab.hk MLab], CityU HK. Prior to that, I obtained my PhD degree in CityU HK, advised by [https://www.cs.cityu.edu.hk/~jasonxue/ Prof. Chun Jason Xue], [https://www.cs.cityu.edu.hk/~abchan/ Prof. Antoni B. Chan] and [https://www.csie.ntu.edu.tw/~ktw/ Prof. Tei-Wei Kuo]. I obtained MS degree in Telecommunications in HKUST and BE in Communication Engineering in Shandong University.
 
 My research interests include 
 . Probabilistic deep learning with applications in:
@@ -26,6 +26,8 @@ My research interests include
 
 
 == News
+
+Our paper "Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images" was accepted in ICLR 2023.
 
 Our paper "Variational Nested Dropout" was accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
