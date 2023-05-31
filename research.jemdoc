@@ -16,19 +16,19 @@ Miss Yu Mao
 
 Faster and stronger Lossless Compression with Optimized Autoregressive framework\nYu Mao, Jingzong Li, *Yufei Cui*, Chun Jason Xue, *DAC 2023*, to appear
 
-Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images\n*Yufei Cui*, Ziquan Liu, Xiangyu Liu, Xue Liu, Cong Wang, Tei-Wei Kuo, Chun Jason Xue, Antoni B. Chan, *ICLR 2023*, to appear
+[https://openreview.net/forum?id=_geIwiOyUhZ Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images]\n*Yufei Cui*, Ziquan Liu, Xiangyu Liu, Xue Liu, Cong Wang, Tei-Wei Kuo, Chun Jason Xue, Antoni B. Chan, *ICLR 2023*
 
-Variational Nested Dropout\n *Yufei Cui*, Yu Mao, Ziquan Liu, Qiao Li, Antoni B. Chan, Xue Liu, Tei-Wei Kuo, Chun Jason Xue\nIEEE Transactions on Pattern Analysis and Machine Intelligence, *TPAMI*, to appear
+[https://www.computer.org/csdl/journal/tp/5555/01/10049079/1KV4oUEgEus Variational Nested Dropout]\n *Yufei Cui*, Yu Mao, Ziquan Liu, Qiao Li, Antoni B. Chan, Xue Liu, Tei-Wei Kuo, Chun Jason Xue\nIEEE Transactions on Pattern Analysis and Machine Intelligence, *TPAMI*
 
-[https://ieeexplore.ieee.org/document/9854091 Bits-Ensemble: Towards Light-Weight Robust Deep Ensemble by Bits-Sharing]\n *Yufei Cui*, Shangyu Wu, Qiao Li, Antoni B. Chan, Wei-Wei Kuo and Chun Jason Xue\nProceedings of the 2022 International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, *CASES 2022*, to appear\nIEEE Transactions on Computer Aided Design of Integrated Circuits & Systems, *TCAD*, to appear
+[https://ieeexplore.ieee.org/document/9854091 Bits-Ensemble: Towards Light-Weight Robust Deep Ensemble by Bits-Sharing]\n *Yufei Cui*, Shangyu Wu, Qiao Li, Antoni B. Chan, Wei-Wei Kuo and Chun Jason Xue\nProceedings of the 2022 International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, *CASES 2022*, to appear\nIEEE Transactions on Computer Aided Design of Integrated Circuits & Systems, *TCAD*
 
-Resolving the Reliability Issues of Open Blocks for 3D NAND Flash: Observations and Strategies\n Qiao Li, Min Ye, *Yufei Cui*, Tianyu Ren, Tei-Wei Kuo, Chun Jason Xue\nProceedings of the 2022 International Conference on Hardware/Software Codesign and System Synthesis, *CODES+ISSS 2022*, to appear\nIEEE Transactions on Computer Aided Design of Integrated Circuits & Systems, *TCAD*, to appear
+[https://ieeexplore.ieee.org/document/9925674 Resolving the Reliability Issues of Open Blocks for 3D NAND Flash: Observations and Strategies]\n Qiao Li, Min Ye, *Yufei Cui*, Tianyu Ren, Tei-Wei Kuo, Chun Jason Xue\nProceedings of the 2022 International Conference on Hardware/Software Codesign and System Synthesis, *CODES+ISSS 2022*, to appear\nIEEE Transactions on Computer Aided Design of Integrated Circuits & Systems, *TCAD*
 
-Accelerating General-purpose Lossless Compression via Simple and Scalable Parameterization\n Yu Mao, *Yufei Cui* (Corresponding), Tei-Wei Kuo and Chun Jason Xue\nThe 30th ACM International Conference on Multimedia, *ACM MM 2022*, to appear
+[https://dl.acm.org/doi/abs/10.1145/3503161.3548413 Accelerating General-purpose Lossless Compression via Simple and Scalable Parameterization]\n Yu Mao, *Yufei Cui* (Corresponding), Tei-Wei Kuo and Chun Jason Xue\nThe 30th ACM International Conference on Multimedia, *ACM MM 2022*
 
-[https://arxiv.org/abs/2205.11807 NFL: Robust Learned Index via Distribution Transformation]\n Shangyu Wu, *Yufei Cui* (Corresponding), Jinghuan Yu, Xuan Sun, Tei-Wei Kuo and Chun Jason Xue\nThe 48th International Conference on Very Large Databases, *VLDB 2022*, to appear
+[https://arxiv.org/abs/2205.11807 NFL: Robust Learned Index via Distribution Transformation]\n Shangyu Wu, *Yufei Cui* (Corresponding), Jinghuan Yu, Xuan Sun, Tei-Wei Kuo and Chun Jason Xue\nThe 48th International Conference on Very Large Databases, *VLDB 2022*
 
-[https://arxiv.org/pdf/2203.16114.pdf TRACE: A Fast Transformer-based General-Purpose Lossless Compressor]\n Yu Mao, *Yufei Cui* (Corresponding), Tei-Wei Kuo and Chun Jason Xue\nThe Web Conference, *WWW 2022*, to appear
+[https://arxiv.org/pdf/2203.16114.pdf TRACE: A Fast Transformer-based General-Purpose Lossless Compressor]\n Yu Mao, *Yufei Cui* (Corresponding), Tei-Wei Kuo and Chun Jason Xue\nThe Web Conference, *WWW 2022*
 
 [https://www.usenix.org/conference/fast22/presentation/liang CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime]\nYu Liang, Riwei Pan, Tianyu Ren, *Yufei Cui*, Rachata Ausavarungnirun, Xianzhang Chen, Changlong Li, Tei-Wei Kuo, Chun Jason Xue\nThe 20th USENIX Conference on File and Storage Technologies, *FAST 2022*.
 
