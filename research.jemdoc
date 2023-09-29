@@ -14,11 +14,15 @@ Miss Yu Mao
 
 == Publications
 
-Faster and stronger Lossless Compression with Optimized Autoregressive framework\nYu Mao, Jingzong Li, *Yufei Cui*, Chun Jason Xue, *DAC 2023*, to appear
+Retrieval-Augmented Multiple Instance Learning\n Yufei Cui, Ziquan Liu, Yixin Chen, Yuchen Lu, Xinyue Yu, Xue Liu, Tei-Wei Kuo, Miguel R. D. Rodrigues, Chun Jason Xue, Antoni B. Chan, Neural Information Processing Systems, *NeurIPS 2023*
+
+Faster and stronger Lossless Compression with Optimized Autoregressive framework\nYu Mao, Jingzong Li, *Yufei Cui*, Chun Jason Xue, *DAC 2023*
 
 [https://openreview.net/forum?id=_geIwiOyUhZ Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images]\n*Yufei Cui*, Ziquan Liu, Xiangyu Liu, Xue Liu, Cong Wang, Tei-Wei Kuo, Chun Jason Xue, Antoni B. Chan, *ICLR 2023*
 
 [https://www.computer.org/csdl/journal/tp/5555/01/10049079/1KV4oUEgEus Variational Nested Dropout]\n *Yufei Cui*, Yu Mao, Ziquan Liu, Qiao Li, Antoni B. Chan, Xue Liu, Tei-Wei Kuo, Chun Jason Xue\nIEEE Transactions on Pattern Analysis and Machine Intelligence, *TPAMI*
+
+[http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/88.pdf Precise Augmentation and Counting of Helicobacter Pylori in Histology Image]\n *Yufei Cui*, Yixin Chen, Zhifeng Shuai, Fang Peng, Yanbo Lv, Luoning Zheng, Xue Liu, Antoni B. Chan, Tei-Wei Kuo, Chun Jason Xue, Medical Imaging meets NeurIPS, *MED-NEURIPS 2022*
 
 [https://ieeexplore.ieee.org/document/9854091 Bits-Ensemble: Towards Light-Weight Robust Deep Ensemble by Bits-Sharing]\n *Yufei Cui*, Shangyu Wu, Qiao Li, Antoni B. Chan, Wei-Wei Kuo and Chun Jason Xue\nProceedings of the 2022 International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, *CASES 2022*, to appear\nIEEE Transactions on Computer Aided Design of Integrated Circuits & Systems, *TCAD*
 
