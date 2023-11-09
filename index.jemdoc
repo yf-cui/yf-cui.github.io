@@ -24,7 +24,7 @@ My research interests include
 . Probabilistic deep learning with applications in:
 	.. Medical images and Histopathology.
 	.. Light-weight neural network and embedded AI.
-	.. Data engineering - data compression and learned index.
+	.. Data compression and learned index.
 . Storage - optimization for flash reliability.
 
 
@@ -32,7 +32,7 @@ My research interests include
 
 Our paper "Improving Natural Language Understanding with Computation-Efficient Retrieval Representation Fusion" was accepted in ENLSP-NeurIPS 2023.
 
-Our paper "Retrieval-Augmented Multiple Instance Learning" was accepted in NeurIPS 2023. ([https://github.com/ralphc1212/ram-mil Paper preview])
+Our paper "Retrieval-Augmented Multiple Instance Learning" was accepted in NeurIPS 2023. ([https://openreview.net/pdf?id=scaKiAtbI3 Paper], [https://github.com/ralphc1212/ram-mil Code])
 
 Our paper "Faster and stronger Lossless Compression with Optimized Autoregressive framework" was accepted in DAC 2023.
 
