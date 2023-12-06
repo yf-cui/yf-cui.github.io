@@ -25,14 +25,14 @@ My research interests include
 	.. Medical images and Histopathology.
 	.. Light-weight neural network and embedded AI.
 	.. Data compression and learned index.
-. Storage - optimization for flash reliability.
+. Retrieval-augmented language models.
 
 
 == News
 
 Our team - HugeRabbit secured the 2nd place winner at 2023 ACM/IEEE TinyML Design Contest. ([https://tinymlcontest.github.io/TinyML-Design-Contest-2023/Winners.html News], [https://github.com/HugeRaabbit/ICCAD-TinyML2023-2nd-Place Code])
 
-Our paper "Improving Natural Language Understanding with Computation-Efficient Retrieval Representation Fusion" was accepted in ENLSP-NeurIPS 2023.
+Our paper "Improving Natural Language Understanding with Computation-Efficient Retrieval Representation Fusion" was accepted in ENLSP-NeurIPS 2023. ([https://openreview.net/pdf?id=JtKGkz9fAe Preprint], [https://nips.cc/virtual/2023/81187 Poster])
 
 Our paper "Retrieval-Augmented Multiple Instance Learning" was accepted in NeurIPS 2023. ([https://openreview.net/pdf?id=scaKiAtbI3 Paper], [https://github.com/ralphc1212/ram-mil Code])
 
